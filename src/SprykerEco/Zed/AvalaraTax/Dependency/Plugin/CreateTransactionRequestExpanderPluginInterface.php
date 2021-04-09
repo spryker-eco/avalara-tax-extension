@@ -17,7 +17,7 @@ interface CreateTransactionRequestExpanderPluginInterface
 {
     /**
      * Specification:
-     * - Expands create transaction request with additional data.
+     * - Expands `createTransaction` request with additional data.
      *
      * @api
      *
