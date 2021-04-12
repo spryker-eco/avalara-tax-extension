@@ -11,7 +11,7 @@ use Generated\Shared\Transfer\AvalaraCreateTransactionRequestTransfer;
 use Generated\Shared\Transfer\CalculableObjectTransfer;
 
 /**
- * Use this plugin to extend `createTransaction` request before it's is send to the Avalara Tax API.
+ * Use this plugin to extend `createTransaction` request before it's sent to the Avalara Tax API.
  */
 interface CreateTransactionRequestExpanderPluginInterface
 {

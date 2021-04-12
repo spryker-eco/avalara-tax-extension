@@ -4,7 +4,6 @@
   "license": "MIT",
   "require": {
     "php": ">=7.3",
-    "avalara/avataxclient": "^21.1.1",
     "spryker/kernel": "^3.30.0"
   },
   "require-dev": {
