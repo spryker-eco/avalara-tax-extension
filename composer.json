@@ -3,12 +3,10 @@
   "description": "AvalaraTaxExtension module",
   "license": "MIT",
   "require": {
-    "php": ">=7.3",
-    "spryker/kernel": "^3.30.0"
+    "php": ">=7.3"
   },
   "require-dev": {
-    "spryker/code-sniffer": "*",
-    "spryker/testify": "*"
+    "spryker/code-sniffer": "*"
   },
   "autoload": {
     "psr-4": {
