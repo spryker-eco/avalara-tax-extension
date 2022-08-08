@@ -13,4 +13,4 @@ composer require spryker-eco/avalara-tax-extension
 
 ## Documentation
 
-[Spryker Documentation](https://academy.spryker.com/developing_with_spryker/module_guide/modules.html)
+[Spryker Documentation](https://docs.spryker.com/docs/scos/user/technology-partners/202108.0/taxes/avalara.html)
